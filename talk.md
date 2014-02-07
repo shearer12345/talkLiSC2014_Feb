@@ -9,7 +9,6 @@
 
 - *humanaquarium*
 - nightingallery
-- play vs. games
 - games as a route to creativity
 
 
@@ -18,7 +17,7 @@
 
 <img src="assets/humanaquariumAction.jpg" alt="humanaquariumAction"  height="400">
 
-- exploring how interactive technologies can mediate participants’ encounters and collaborations with live musicians
+- exploring how interactive technologies can mediate participants' encounters and collaborations with live musicians
 
 
 
@@ -170,7 +169,7 @@
 
 - shifted to a strictly supporting capacity
   - what Benford and Giannachi term *orchestrators of the experience*
-  - primary role was to facilitate participants’ trajectories
+  - primary role was to facilitate participants' trajectories
     – i.e. the paths of discovery and exploration they followed as they encountered and experienced the work
 
 
