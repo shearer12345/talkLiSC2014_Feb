@@ -16,7 +16,10 @@
 
 ##*humanaquarium*
 
-<img src="assets/humanaquariumAction.jpg" alt="humanaquariumAction"  height="600">
+<img src="assets/humanaquariumAction.jpg" alt="humanaquariumAction"  height="400">
+
+- exploring how interactive technologies can mediate participants’ encounters and collaborations with live musicians
+
 
 
 ##Designing From Within
@@ -106,15 +109,17 @@
 - the voice that was always missing from this conversation was that of the creator him/herself
 
 
-- Desiging-from within is in contrast with Gaver's cultural commentators or Hook et al's use of documentary as an investigatory tool
-  - both which use an outsider's account of a design and thencommunicate it back to the designer
+- *designing from within* is in contrast with Gaver's cultural commentators or Hook et al's use of documentary as an investigatory tool
+  - both which use an outsider's account of a design and then communicate it back to the designer
 
 
-- situating ourselves within the design and taking the role of performer during the humanaquarium performance allows
+- situating ourselves within the design and taking the role of performer during the humanaquarium performance allowed
   - first-hand experience
   - simultaneous dialogical exchange with users
-  - leading us to a number of insights that may have been overlooked in a traditional design process
+  - leading to a number of insights that may have been overlooked in a traditional design process
 
+
+###Insights
 
 - A tension emerged between:
   - our instincts and desires as musicians to make more complex and (to us) more satisfying musical pieces
@@ -126,6 +131,14 @@
 ##Nightingallery
 
 <img src="assets/smallbird.jpg" alt="smallbird"  height="400">
+
+
+###Starting point
+
+
+###Research practice
+
+- part of a research practice that explores social behaviour in public performance spaces through the enactment and examination of interactive, performance-based artworks
 
 
 ##Play vs Games
