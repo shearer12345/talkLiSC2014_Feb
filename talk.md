@@ -119,6 +119,7 @@
   - leading to a number of insights that may have been overlooked in a traditional design process
 
 
+
 ###Insights
 
 - A tension emerged between:
@@ -127,13 +128,20 @@
     - to allow passing viewers to instantly collaborate with us
 
 
+###Insights 2
+
+- we observed numerous peripheral interactions between participants that took place during the performance
+- many interesting social encounters were going on at the sidelines of the participants’ primary engagement with the interactive performance
+  - despite the fact that the performer-focused format of these works did not actively encourage or facilitate these kinds of interaction
+
+
 
 ##Nightingallery
 
+- an interactive musical installation featuring an animatronic bird that talks and sings, engaging members of the public in playful dialogue
+
 <img src="assets/smallbird.jpg" alt="smallbird"  height="400">
 
-
-###Starting point
 
 
 ###Research practice
@@ -141,11 +149,82 @@
 - part of a research practice that explores social behaviour in public performance spaces through the enactment and examination of interactive, performance-based artworks
 
 
-##Play vs Games
 
-- in
+###Starting point - aims
+
+- remove the performer-centric focus we observed in previous works
+- observe how participants collaborated and shared their experience amongst one another
+- facilitate participants in creatively exploring improvisational possibilities
+  - encouraging them to publically perform
+
+
+
+###Setting the scene
+
+- stepping back from the forefront of the installation, we cast ourselves in the role of carnival barkers and fantastical zookeepers
+
+<img src="assets/nightingalleryBarkers.png" alt="nightingalleryBarkers"  height="400">
+
+
+###Our roles as performers
+
+- shifted to a strictly supporting capacity
+  - what Benford and Giannachi term *orchestrators of the experience*
+  - primary role was to facilitate participants’ trajectories
+    – i.e. the paths of discovery and exploration they followed as they encountered and experienced the work
+
+
+
+###Performances
+
+- BBC Free-thinking (concert and lecture series)
+- Bestival
+- MakerFaire
+- Jam46 (Culture Lab works-in-progress show)
+- Dorkbot at the International Centre For Life
+- British HCI conference
+
+
+
+###Nightgallery in Action
+
+<iframe width="640" height="360" src="//www.youtube.com/embed/7Td8chaBxtM?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+
+[Nightingallery Build](http://guyschofield.wordpress.com/2011/04/03/nightingallery-build/)
+
+
+
+###Observations
+
+- how we observed participants shaping what Reeves terms *the spectator experience* of their public interactions with Nightingallery
+
+- Paper just (yesterday) accepted in Personal and Ubiquitous Computing
+
+
+
+####Sharing private experiences with others
+
+- how participants chose to share (or conceal) their private individual experience with friends, family, or peers
+
+
+- On one occasion a child repeatedly insisted to her parents that when she asked the bird specific questions (like favourite colour, or name)
+- the bird responded with content that we, as the programmers, knew was not contained in the bird’s phrase bank
+- She made up a very detailed description of the conversation she insisted that she had had (which we did not choose to contradict!)
+
+- configuring the installation to use the asymmetric telephone interface allowed us
+- an easy way to examine how people learned the interaction scheme and then pass on this learning to their peers through the aforementioned variety of direct and indirect means
+
+
+
+####Performing and Music-Making
+
+- how participants were able to use the Nightingallery installation to explicitly perform and engage in music-making activities
+
+
+- Participants rapidly discovered that even speaking or singing quietly would still cause the bird to respond with an audible musical birdsong corresponding to what they had said or sung
+- Shy participants could thereby allow the bird to do the performing rather than risk being heard singing themselves, often cupping their hands over the microphone so that their own vocal contributions were inaudible to others sharing the space.
+
 
 
 ##Games as a route to Creativity
 
-- gamification = blurgh
